@@ -2931,7 +2931,7 @@ const terms: Words[] = [
             1/1 NFT’lere oranla 1:1
             Art NFT’lerinin değerleri çok daha yüksektir
             çünkü sayıca az ve daha
-            öznel olurlar..
+            öznel olurlar.
             `,
            },
            {
@@ -2943,7 +2943,19 @@ const terms: Words[] = [
             ki, o NFT’den yalnızca bir tane bulunuyor.
             Mesela CryptoPunks, 10
             bin adet eşsiz ve benzersiz olan (1/1)
-            NFT’den oluşuyorr.
+            NFT’den oluşuyor.
+            `,
+           },
+           {
+            word: "Adress",
+            meaning: `<h4>(ADRES)</h4><br> Bitcoin ağında ödeme yapmak ve ödeme
+            almak için kullanılan Alfanumerik karakterler
+            bütününe verilen isimdir. Taranabilir bir QR
+            kod olarak kullanılabilir. Bitcoin’le size ödeme
+            yapması için onlara vermeniz gereken tek
+            bilgidir.
+            Örnek Adres:
+            1kqHKEYYC8CQPxyV53nCju3kk2ufpQqA2.
             `,
            },
            
