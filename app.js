@@ -2520,6 +2520,209 @@ const terms = [
             olduğunu ifade eder.
             `,
     },
+    {
+        word: "Utility Token",
+        meaning: `<h4>(FAYDA JETONU)</h4><br> Blokzincirinde geliştirilen bir projenin sunduğu
+            hizmetlere, kullanıcıların erişim sağlaması için
+            kullanılan jeton türünü ifade eder.
+            `,
+    },
+    {
+        word: "Validator",
+        meaning: `<h4>(DOĞRULAYICI)</h4><br> Blokzincirinde gerçekleşen işlemlerin ‘hukuka’
+            uygun ve çifte harcamaya yâda kötü niyetli
+            işlemlere konu olmadığı gibi zincirin
+            güvenliğine ilişkin hususlarda doğrulamakla
+            görevli olan cihazı veya cihazı yöneten kişiyi
+            ifade eder.
+            `,
+    },
+    {
+        word: "Vanity Address",
+        meaning: `<h4>(ÖZEL ADRES)</h4><br> Kullanıcıların kendi istekleri doğrultusunda
+            kendileri için kişiselleştirdikleri bitcoin veya
+            kripto adreslerine özel adres denir.
+            `,
+    },
+    {
+        word: "Vires In Numeris",
+        meaning: `<h4>(SAYILARIN GÜCÜ)</h4><br> Latince bir kavramdır ve Bitcoin’in mottosu
+            olarak kullanılır. Bitcoin kriptografi ile şifrelenen
+            dijital bir para olduğu için çeşitli rakam
+            dizilerinin kullanıldığı kodlardan oluşmaktadır.
+            Bu matematiksel kodlar Bitcoin için güçlü bir
+            altyapı oluşturmakta ve Bitcoin'in sayılardan
+            aldığı gücü sağlamaktadır.
+            `,
+    },
+    {
+        word: "VR",
+        meaning: `<h4>(SANAL GERÇEKLİK)</h4><br> ingilizce acilimi:<p>"Virtual Reality"</p>Oyun sektöründe oyunların iki boyutlu
+            dünyadan çıkıp üç boyutlu olarak
+            deneyimlenmesini sağlar. Görme, duyma,
+            dokunma, hatta koku gibi duyuları harekete
+            geçiren donanımsal teknolojiler ile
+            desteklenmektedir.
+            `,
+    },
+    {
+        word: "Virtual Reality",
+        meaning: `<h4>(SANAL GERÇEKLİK)</h4><br> <p>"VR"</p>Oyun sektöründe oyunların iki boyutlu
+            dünyadan çıkıp üç boyutlu olarak
+            deneyimlenmesini sağlar. Görme, duyma,
+            dokunma, hatta koku gibi duyuları harekete
+            geçiren donanımsal teknolojiler ile
+            desteklenmektedir.
+            `,
+    },
+    {
+        word: "Virtual Currency",
+        meaning: `<h4>(SANAL PARA)</h4><br> ABD Vergi Dairesi (IRS) sanal parayı "Bir
+            değişim aracı, bir hesap birimi ve / veya bir
+            değer saklama aracı olarak çalışan ve
+            herhangi bir yargı alanında yasal ihale
+            statüsüne sahip olmayan bir değerin dijital
+            temsili" olarak tanımlamaktadır.
+            `,
+    },
+    {
+        word: "Virtual Land",
+        meaning: `<h4>(SANAL ARAZİ)</h4><br> Metaverse dünyasında bulunan dijital
+            arazilere verilen isimdir. Alım satımı
+            yapılabilmektedir ve kullanıcılara avatarları ile
+            yer alabilecekleri çeşitli kullanım alanları
+            sağlamaktadır.
+            `,
+    },
+    {
+        word: "Volatile",
+        meaning: `<h4>(DALGALI HAREKETLİ FİYAT)</h4><br> Düzensiz olarak yükselen ve alçalan
+            kriptopara fiyat hareketlerini ifade eder.
+            `,
+    },
+    {
+        word: "Volatility",
+        meaning: `<h4>(YÜKSEK FİYAT HAREKETLİLİĞİ )</h4><br> Düzensiz olarak yükselen ve alçalan
+            kriptopara fiyat hareketlerini ifade eder.
+            `,
+    },
+    {
+        word: "VWAP",
+        meaning: `<h4>(HACİM  AĞIRLIKLI ORTALAMA FİYAT )</h4><br> ingilizce acilimi: <p>"Volume Weighted Average Price"</p>Hacim ağırlıklı ortalama, teknik analizde bir
+            kriptopara varlığının belirli bir zaman dilimi
+            içerisindeki hacme göre alınmış ortalama
+            fiyatının bulunduğu bir gösterge olarak
+            kullanılmaktadır.
+            `,
+    },
+    {
+        word: "Volume Weighted Average Price",
+        meaning: `<h4>(HACİM  AĞIRLIKLI ORTALAMA FİYAT)</h4><br> <p>"VWAP"</p>Hacim ağırlıklı ortalama, teknik analizde bir
+            kriptopara varlığının belirli bir zaman dilimi
+            içerisindeki hacme göre alınmış ortalama
+            fiyatının bulunduğu bir gösterge olarak
+            kullanılmaktadır.
+            `,
+    },
+    {
+        word: "WALLET",
+        meaning: `<h4>(CÜZDAN)</h4><br> Kriptoparaları depolamak için kullanılan, gizli
+            anahtarları saklayan cüzdan oluşumunu ifade
+            eder. Masaüstü, yazılım, donanım, kağıtkâğıt
+            gibi çeşitli türleri vardır.
+            `,
+    },
+    {
+        word: "Whale",
+        meaning: `<h4>(BALİNA)</h4><br> Bitcoin dünyasında da piyasaya erken giren,
+            cüzdanında 1,000 ve üzeri sayıda Bitcoin’i
+            olan kullanıcılarına denir. Klasik finans
+            dünyasının konuşma dilinde kullanılan balina
+            terimi büyük ve etkili bir yatırımcı anlamında
+            kullanılır.
+            `,
+    },
+    {
+        word: "Web 3.0",
+        meaning: `<h4>(İNTERNET 3.0)</h4><br> İnternetteki algoritmaların yapay zeka ile
+            çalıştığı ve web üzerindeki verilerin
+            merkeziyetsiz çalıştığı internet sürecini ifade
+            eder.
+            `,
+    },
+    {
+        word: "Wedge",
+        meaning: `<h4>(TAKOZ FORMASYONU)</h4><br> Bir kriptopara varlığının grafik üzerinde yer
+            alan fiyat eğrilerinin birbirine yaklaştığı
+            durumu ifade etmek için kullanılan bir teknik
+            analiz türüdür. Yaklaşan çizgilerin birbiriyle
+            kesişmeden formasyonun tamamlanması
+            beklenir. Alçalan ve Yükselen olmak üzere iki
+            adet türü vardır.
+            `,
+    },
+    {
+        word: "Whitepaper",
+        meaning: `<h4>(TEKNİK DÖKÜMAN)</h4><br> Kriptopara arzında bulunan bir proje ekibinin,
+            projenin teknik detaylarını ve ekip olarak
+            edindikleri misyon ve vizyonu yol haritaları ile
+            beraber ortaya koyan dokümanı ifade eder.
+            `,
+    },
+    {
+        word: "Yield Farming",
+        meaning: `<h4>(VERİM ÇİFTLİĞİ)</h4><br> Kullanıcıların gelecekte kar etmek amacıyla
+            ellerindeki kripto varlıkları ödünç vermesi veya
+            bir likidite havuzuna stake etmesi durumunu
+            ifade eder.
+            `,
+    },
+    {
+        word: "YOLO",
+        meaning: `<h4>(YALNIZCA BIR KEZ YASIYORSUN)</h4><br> ingilizce acilimi: <p>"You Only Live Once"</p>Riskli yatırımlar yaparak olmadık yerlere
+            parasını “basan” yatırımcılar YOLO!
+            denir.
+            `,
+    },
+    {
+        word: "You Only Live Once",
+        meaning: `<h4>(YALNIZCA BIR KEZ YASIYORSUN)</h4><br> i<p>"YOLO"</p>Riskli yatırımlar yaparak olmadık yerlere
+            parasını “basan” yatırımcılar YOLO!
+            denir.
+            `,
+    },
+    {
+        word: "Zero Confirmation Transaction",
+        meaning: `<h4>(ONAYLANMAMIŞ İŞLEM)</h4><br> Transfer gerçekleştikten sonra işlemin henüz
+            madenci tarafından onay almadığını ifade
+            eder.
+            `,
+    },
+    {
+        word: "1/1 Art",
+        meaning: `<h4></h4><br> Bu kavram da 1/1 gibidir ancak tek bir farkla.
+            1:1 Art, bir sanatçının
+            yarattığı ve CryptoPunks gibi 10 bin adet
+            değil de yalnızca birkaç
+            NFT’den oluşan eşsiz ve benzersiz eserlerdir.
+            1/1 NFT’lere oranla 1:1
+            Art NFT’lerinin değerleri çok daha yüksektir
+            çünkü sayıca az ve daha
+            öznel olurlar..
+            `,
+    },
+    {
+        word: "1/1",
+        meaning: `<h4></h4><br> Bu bir aritmetik problem değil. 1/1 diye
+            gördüğünüz şey, eşsiz ve
+            benzersiz bir NFT’yi ifade ediyor. Yani bu
+            ifadeyi gördüğünüzde bilin
+            ki, o NFT’den yalnızca bir tane bulunuyor.
+            Mesela CryptoPunks, 10
+            bin adet eşsiz ve benzersiz olan (1/1)
+            NFT’den oluşuyorr.
+            `,
+    },
 ];
 const searchButton = document.getElementById('searchButton');
 const input = document.getElementById('textInput');
