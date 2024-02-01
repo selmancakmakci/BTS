@@ -45,6 +45,14 @@ const terms = [
             `,
     },
     {
+        word: "Ask Me Anything",
+        meaning: `<h4>(BANA ISTEDIGINI SOR)</h4><br>  <p>"AMA"</p> Yeni çıkan veya devam eden projelerin proje
+            sahipleri, topluluk ile iletişimlerine devam
+            edebilmek ve yatırımcı çekebilmek için düzenli
+            olarak AMA etkinlikleri düzenlerler.
+            `,
+    },
+    {
         word: "Algorithm",
         meaning: `<h4>(ALGORITMA)</h4><br>Problem çözme ya da hesaplamada takip
             edilecek kurallar ya da uygulamalar bütününü
@@ -74,9 +82,24 @@ const terms = [
             `,
     },
     {
+        word: "Application Programming Interface",
+        meaning: `<h4>(UYGULAMA PROGLAMLAMA ARAYÜZÜ)</h4><br> <p>"API"</p> Uygulama veya web sitesi aracılığıyla verilen
+            komutları arka planda çalışan yazılımlara
+            aktaran bir araçtı.
+            `,
+    },
+    {
         word: "ASIC",
         meaning: `<h4>(UYGULAMAYA ÖZGÜ TÜMLEŞİK DEVRE)</h4><br>ingilizce acilimi: <p>"Application Specific Integrated
             Circuit"</p> Belirli özel bir işlemi ya da görevi yerine
+            getirmek için üretilen devrelere verilen
+            isimdir. ASIC, tek bir işi yerine getirmek için
+            hazırlanmış çipleri tanımlamak için kullanılır.
+            `,
+    },
+    {
+        word: "Application Specific Integrated Circuit",
+        meaning: `<h4>(UYGULAMAYA ÖZGÜ TÜMLEŞİK DEVRE)</h4><br> <p>"ASIC"</p> Belirli özel bir işlemi ya da görevi yerine
             getirmek için üretilen devrelere verilen
             isimdir. ASIC, tek bir işi yerine getirmek için
             hazırlanmış çipleri tanımlamak için kullanılır.
@@ -117,10 +140,22 @@ const terms = [
             `,
     },
     {
+        word: "All Time High",
+        meaning: `<h4>(TÜM ZAMANLARIN EN YÜKSEK DEĞERİ)</h4><br><p>"ATH"</p> Bir kriptoparanın tarihinde ulaştığı en yüksek
+            değeri ifade eder.
+            `,
+    },
+    {
         word: "ATL",
         meaning: `<h4>(TÜM ZAMANLARIN EN DÜŞÜK DEĞERİ)</h4><br>ingilizce acilimi: <p>"All Time Low"</p> Bir kriptoparanın tarihinde ulaştığı en düşük
             değeri ifade eder.
             `,
+    },
+    {
+        word: "All Time Low",
+        meaning: `<h4>(TÜM ZAMANLARIN EN DÜŞÜK DEĞERİ)</h4><br><p>"ATL"</p> Bir kriptoparanın tarihinde ulaştığı en düşük
+              değeri ifade eder.
+              `,
     },
     {
         word: "Atomic Swap",
@@ -165,6 +200,15 @@ const terms = [
     {
         word: "BIP",
         meaning: `<h4>(BITCOIN IYILESTIRME ONERILERI)</h4><br> ingilizce acilimi: <p>"Bitcoin Improvement Proposal"</p> Bitcoin ağında gerçekleşecek yükseltme,
+            iyileştirme ve geliştirme fikirlerinin yer aldığı,
+            bu fikirlerin tartışıldığı süreci ifade eder.
+            Merkezi bir otorite veya bir lider tarafından
+            yönetilmez.
+            `,
+    },
+    {
+        word: "Bitcoin Improvement Proposal",
+        meaning: `<h4>(BITCOIN IYILESTIRME ONERILERI)</h4><br>  <p>"BIP"</p> Bitcoin ağında gerçekleşecek yükseltme,
             iyileştirme ve geliştirme fikirlerinin yer aldığı,
             bu fikirlerin tartışıldığı süreci ifade eder.
             Merkezi bir otorite veya bir lider tarafından
@@ -308,6 +352,18 @@ const terms = [
             `,
     },
     {
+        word: "Binance Smart Chain",
+        meaning: `<h4>(BOT)</h4><br>  <p>"BSC"</p>
+            Ethereum’a bir alternatif
+            sunar. PancakeSwap gibi önemli DeFi
+            platformları BSC üzerinde çalışır.
+            Eylül 2020 tarihinde dünyanın en büyük kripto
+            para borsası Binance
+            tarafından kurulan BSC, Binance Chain ile
+            paralel olarak çalışır.
+            `,
+    },
+    {
         word: "BTC",
         meaning: `<h4>(BTC)</h4><br> Bitcoin’in kısaltmasını ifade eder.
             `,
@@ -324,6 +380,14 @@ const terms = [
     {
         word: "BTD",
         meaning: `<h4>(DÜŞÜKTEN ALIM)</h4><br> ingilizce acilimi: <p>"Buy The Dips"</p>
+            Bir kripto paranın değeri hazır düşmüşken,
+            burada bir alım fırsatı vardır ve
+            buradan alınmalı, bu fırsat kaçırılmamalıdır!
+            `,
+    },
+    {
+        word: "Buy The Dips",
+        meaning: `<h4>(DÜŞÜKTEN ALIM)</h4><br>  <p>"BTD"</p>
             Bir kripto paranın değeri hazır düşmüşken,
             burada bir alım fırsatı vardır ve
             buradan alınmalı, bu fırsat kaçırılmamalıdır!
@@ -606,6 +670,13 @@ const terms = [
             `,
     },
     {
+        word: "Directed Acyclic Graph",
+        meaning: `<h4>(YÖNLÜ ÇEVRİMİSZ GRAFİK)</h4><br> ingilizce acilimi: <p>"DAG"</p> Bir uçtan başlayarak birbirine temas
+            etmeden, aynı noktaya geriye dönmeden,
+            tekrarlamadan uzayan eğriyi ifade eder.
+            `,
+    },
+    {
         word: "Date Of Launch",
         meaning: `<h4>(ÇIKIŞ TARİHİ-LANSMAN)</h4><br> Kriptopara arzı kapsamında halka arz
             edilecek olan token/jetonların ilk çıkış tarihini
@@ -662,6 +733,12 @@ const terms = [
             `,
     },
     {
+        word: "Decentralized Autonomous Organizations",
+        meaning: `<h4>(MERKEZİYETSİZ OTONOM ORGANİZASYON)</h4><br>  <p>"DAO"</p> Akıllı sözleşmelerde kodlanmış kuralların
+            uygulandığı organizasyonu ifade eder.
+            `,
+    },
+    {
         word: "DEX",
         meaning: `<h4>(MERKEZİYETSİZ BORSA)</h4><br> ingilizce acilimi: <p>"Decentralized Exchange"</p> Merkezi bir kontrole ihtiyaç duymaksızın
             kriptopara ve diğer dijital varlıkların eşler
@@ -670,8 +747,24 @@ const terms = [
             `,
     },
     {
+        word: "Decentralized Exchange",
+        meaning: `<h4>(MERKEZİYETSİZ BORSA)</h4><br>  <p>"DEX"</p> Merkezi bir kontrole ihtiyaç duymaksızın
+            kriptopara ve diğer dijital varlıkların eşler
+            arasında alım satım işlemlerini sağlayan
+            platformu ifade eder.
+            `,
+    },
+    {
         word: "DEF",
-        meaning: `<h4>(MERKEZİYETSİZ FİNANS)</h4><br> ingilizce acilimi: <p>"Decentralized Exchange"</p> Merkezi otoritelere ihtiyaç duyulmadan,
+        meaning: `<h4>(MERKEZİYETSİZ FİNANS)</h4><br> ingilizce acilimi: <p>"Decentralized Finance"</p> Merkezi otoritelere ihtiyaç duyulmadan,
+            herhangi bir aracı kurum olmadan işlem
+            yapılabilen finansal sistemleri ifade
+            eder.
+            `,
+    },
+    {
+        word: "Decentralized Finance",
+        meaning: `<h4>(MERKEZİYETSİZ FİNANS)</h4><br>  <p>"DEF"</p> Merkezi otoritelere ihtiyaç duyulmadan,
             herhangi bir aracı kurum olmadan işlem
             yapılabilen finansal sistemleri ifade
             eder.
@@ -797,8 +890,25 @@ const terms = [
             `,
     },
     {
+        word: "Distributed Ledger Technology",
+        meaning: `<h4>(DAĞITIK DEFTER TEKNOLOJİSİ)</h4><br>  <p>"DLT"</p> İşlemlerin yürütülmesi, onaylanması veya
+            yetkilendirilmesi gibi faaliyetlerin merkezi bir
+            otoriteye ihtiyaç duyulmaksızın tüm
+            katılımcıların bağımsız bir ağda onaylaması ile
+            düğümlerde tutulduğu teknolojiyi ifade eder.
+            `,
+    },
+    {
         word: "DYOR",
         meaning: `<h4>(KENDİ ARAŞTIRMANI YAP)</h4><br> ingilizce acilimi: <p>"Do Your Own Research"</p> Ekosistemde birisi bir projeyi övdükten veya
+            yerdikten sonra DYOR ifadesini kullanır ve
+            insanlara kendi araştırmalarını kendilerinin
+            yapmaları gerektiğini söyler.
+            `,
+    },
+    {
+        word: "Do Your Own Research",
+        meaning: `<h4>(KENDİ ARAŞTIRMANI YAP)</h4><br>  <p>"DYOR"</p> Ekosistemde birisi bir projeyi övdükten veya
             yerdikten sonra DYOR ifadesini kullanır ve
             insanlara kendi araştırmalarını kendilerinin
             yapmaları gerektiğini söyler.
@@ -896,6 +1006,13 @@ const terms = [
             `,
     },
     {
+        word: "Ethereum Improvement Proposals",
+        meaning: `<h4>(ETHEREUM İYİLEŞTİRME ÖNERİLERİ)</h4><br>  <p>"EIP"</p> Ethereum ağ yükseltmeleri ve uygulama
+            standartlarının tartışıldığı ve geliştirildiği
+            süreçleri ifade etmektedir..
+            `,
+    },
+    {
         word: "Fake out",
         meaning: `<h4>(KANDIRMAK)</h4><br> Bir grafik üzerinde gerçekleşeceği tahmin
             edilen bir fiyat hareketi beklentisi ile işlem
@@ -947,6 +1064,14 @@ const terms = [
             `,
     },
     {
+        word: "Field Programmable Gate Away",
+        meaning: `<h4>(ALANDA PROGRAMLANABİLİR KAPI DİZİSİ)</h4><br>  <p>"FPGA"</p> Düşük enerji tüketimi ve yüksek performans
+            sağladığı ve algoritma bazlı kullanılabildiği
+            için kriptopara madenciliğinde de kullanılan
+            işlemcilerdir.
+            `,
+    },
+    {
         word: "Financial Risk",
         meaning: `<h4>(FİNANSAL RİSK)</h4><br> Para, sermaye veya varlık kaybetme
             olasılığıdır. Birçok parametreden etkilenir ve
@@ -978,8 +1103,8 @@ const terms = [
             `,
     },
     {
-        word: "Fomo",
-        meaning: `<h4>(FIRSATLARI KAÇIRMA KORKUSU)</h4><br> ingilizce acilimi: <p>"Fear of Missing Out"</p> Günümüzde yaşanan trendleri kaçırma
+        word: "Fear of Missing Out",
+        meaning: `<h4>(FIRSATLARI KAÇIRMA KORKUSU)</h4><br> ingilizce acilimi: <p>"FOMO"</p> Günümüzde yaşanan trendleri kaçırma
             korkusudur ve fırsatları kaçırma duygusudur.
             Kriptopara dünyasında ise kriptopara veya
             jetonu doğru zamanda alma veya doğru
@@ -1021,6 +1146,15 @@ const terms = [
     {
         word: "FUD",
         meaning: `<h4>(TEDİRGİNLİK)</h4><br> ingilizce acilimi: "Fear uncertainty and doubt"
+            Kriptopara fiyatının
+            düşeceğine dair duyulan korku, belirsizlik ve
+            şüphe ile ortaya çıkan tedirginlik durumunu
+            ifade eder.
+            `,
+    },
+    {
+        word: "Fear uncertainty and doubt",
+        meaning: `<h4>(TEDİRGİNLİK)</h4><br> <p>""FUD"</p> 
             Kriptopara fiyatının
             düşeceğine dair duyulan korku, belirsizlik ve
             şüphe ile ortaya çıkan tedirginlik durumunu
@@ -1097,8 +1231,8 @@ const terms = [
             `,
     },
     {
-        word: "Gmi",
-        meaning: `<h4>(BU İŞ OLACAK!)</h4><br> Bir kripto paraya yatırım yapmışsınız ve
+        word: "Gonna Make It",
+        meaning: `<h4>(BU İŞ OLACAK!)</h4><br> <p>"GMI"</p> Bir kripto paraya yatırım yapmışsınız ve
             bekliyorsunuz. Değerin yükseleceğine ve
             zengin olacağınıza inanıyorsunuz. O zaman
             GMI!.
@@ -1285,6 +1419,15 @@ const terms = [
             `,
     },
     {
+        word: "Initial Coin Offering",
+        meaning: `<h4>(ÖNCÜ KOİN ARZI)</h4><br>  <p>"ICO"</p> Dağıtık ağ yapısının oluşturulmasında ve/veya
+            belli bir proje özelinde kripto varlık veya fiyat/
+            para birimi karşılığı çıkarılan jeton aracılığıyla
+            gerçekleştirilen fon toplama faaliyetlerini ifade
+            eder.
+            `,
+    },
+    {
         word: "IDO",
         meaning: `<h4>(İLK MERKEZİYETSİZ BORSA ARZI)</h4><br> ingilizce acilimi: <p>"Initial Dex Offering"</p> Yeni geliştirilmiş bir kriptopara projesi için
             merkeziyetsiz kriptopara alım satım
@@ -1293,8 +1436,23 @@ const terms = [
             `,
     },
     {
+        word: "Initial Dex Offering",
+        meaning: `<h4>(İLK MERKEZİYETSİZ BORSA ARZI)</h4><br>  <p>"IDO"</p> Yeni geliştirilmiş bir kriptopara projesi için
+            merkeziyetsiz kriptopara alım satım
+            platformları aracılığıyla fon toplanmasını
+            ifade eder.
+            `,
+    },
+    {
         word: "IEO",
         meaning: `<h4>(İLK BORSA ARZI)</h4><br> ingilizce acilimi: <p>"Initial Exchange Offering"</p> Yeni geliştirilmiş bir kriptopara projesi için
+            merkezi kriptopara alım satım platformları
+            aracılığıyla fon toplanmasını ifade eder.
+            `,
+    },
+    {
+        word: "Initial Exchange Offering",
+        meaning: `<h4>(İLK BORSA ARZI)</h4><br>  <p>"IEO"</p> Yeni geliştirilmiş bir kriptopara projesi için
             merkezi kriptopara alım satım platformları
             aracılığıyla fon toplanmasını ifade eder.
             `,
@@ -1310,6 +1468,16 @@ const terms = [
             `,
     },
     {
+        word: "Initial Game Offering",
+        meaning: `<h4>(İLK OYUN ARZI)</h4><br>  <p>"IGO"</p> Kullanıcıların blokzinciri tabanlı oyun
+            projelerinin jetonlarına ve oyun içi eşyalarına
+            erken erişmesini sağlamaktadır. Bu sayede,
+            geliştirici şirket veya kişiler tarafından
+            projelerinin devamlılığı ve sürdürülebilirliği için
+            sermaye toplanmaktadır.
+            `,
+    },
+    {
         word: "IPO",
         meaning: `<h4>(HALKA İLK ARZ)</h4><br> ingilizce acilimi: <p>"Initial Public Offering"</p> Özel şirketlerin yatırım sermayesini artırmak
             için hisse senetlerini halka ilk defa arza
@@ -1317,8 +1485,24 @@ const terms = [
             `,
     },
     {
+        word: "Initial Public Offering",
+        meaning: `<h4>(HALKA İLK ARZ)</h4><br> ingilizce acilimi: <p>"IPO"</p> Özel şirketlerin yatırım sermayesini artırmak
+            için hisse senetlerini halka ilk defa arza
+            edilişini ifade eder.
+            `,
+    },
+    {
         word: "ITO",
         meaning: `<h4>(ÖNCÜ JETON ARZI)</h4><br> ingilizce acilimi: <p>"Initial Token Offering"</p> Ethereum üzerinde gerçekleştirilen joten arzını
+            ifade eder. İşlev olarak öncü koin arzı ICO) ile
+            hemen hemen aynı olsa da Ethereum üzerinde
+            gerçekleştirilen işlem çeşitliliğine dikkat çekmek
+            amacıyla ayrıca isimlendirilmektedir.
+            `,
+    },
+    {
+        word: "Initial Token Offering",
+        meaning: `<h4>(ÖNCÜ JETON ARZI)</h4><br>  <p>"ITO"</p> Ethereum üzerinde gerçekleştirilen joten arzını
             ifade eder. İşlev olarak öncü koin arzı ICO) ile
             hemen hemen aynı olsa da Ethereum üzerinde
             gerçekleştirilen işlem çeşitliliğine dikkat çekmek
@@ -1367,8 +1551,22 @@ const terms = [
             `,
     },
     {
+        word: "Know Your Customer",
+        meaning: `<h4>(MÜŞTERİNİ TANI)</h4><br>  <p>"KYC"</p> Kullanıcı bilgilerinin, merkezi bir kurum
+            tarafından onaylandığı bilgi doğrulama
+            sistemini ifade eder.
+            `,
+    },
+    {
         word: "KOL",
         meaning: `<h4>(KİLİT KANAAT LİDERİ)</h4><br> ingilizce acilimi: <p>"Key Opinion Leader"</p> Bir nevi sosyal medya fenomeni ya da
+            “influencer” demektir. Fikir lideri gibi bir anlama
+            gelir.
+            `,
+    },
+    {
+        word: "Key Opinion Leader",
+        meaning: `<h4>(KİLİT KANAAT LİDERİ)</h4><br>  <p>"KOL"</p> Bir nevi sosyal medya fenomeni ya da
             “influencer” demektir. Fikir lideri gibi bir anlama
             gelir.
             `,
@@ -2728,6 +2926,12 @@ const searchButton = document.getElementById('searchButton');
 const input = document.getElementById('textInput');
 const resultArea = document.querySelector('#resultContainer');
 searchButton.addEventListener('click', showResult);
+input.addEventListener('keydown', function (event) {
+    if (event.key === "Enter") {
+        event.preventDefault();
+        showResult();
+    }
+});
 function showResult() {
     resultArea.innerHTML = "";
     //let text = input.value.replace(/\s+/g, '').toLowerCase();
@@ -2738,7 +2942,7 @@ function showResult() {
     console.log('sonuclar', results);
     if (results.length === 0) {
         // Eşleşme bulunamadıysa mesaj göster
-        resultArea.innerHTML = '<p>ESLESEME BULUNAMADI</p>';
+        resultArea.innerHTML = '<p>ESLESME BULUNAMADI</p>';
     }
     else {
         // Eşleşme varsa sonuçları göster

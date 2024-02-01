@@ -55,15 +55,19 @@ body{
 button{
     margin-top: 1em;
     margin-bottom: 1em;
-    width: 8em;
-    height: 4em;
+    width: 6em;
+    height: 2em;
     background-color: rgb(85, 128, 222);
     border-radius: 5px;
     color: white;
     border: none;
     box-shadow: 1px rgb(55, 88, 160);
     cursor: pointer;
+    font-size: 25px;
+    padding: 0px;
+
 }
+
 button:hover{
 transform: scale(1.1);
 }
