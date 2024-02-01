@@ -2770,7 +2770,7 @@ const terms: Words[] = [
     if (results.length === 0) {
         
         // Eşleşme bulunamadıysa mesaj göster
-        resultArea.innerHTML = '<p>ESLESEME BULUNAMADI</p>';
+        resultArea.innerHTML = '<p>ESLESME BULUNAMADI</p>';
     } else {
         
         // Eşleşme varsa sonuçları göster
