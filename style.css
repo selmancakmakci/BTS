@@ -9,7 +9,7 @@ body{
     
     width: 100%;
     max-width: 35em;
-    height: 35em;
+    min-height: 35em;
     margin: auto;
     margin-top: 1em;
     border-radius: 15px;
@@ -90,7 +90,7 @@ input[type="text"]:focus {
 
 #resultContainer{
     border: 1px solid ;
-    height: 18em;
+    min-height: 15em;
     border-radius: 10px;
     width: 80%;
     margin: auto;
